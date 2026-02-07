@@ -261,3 +261,58 @@ body {
         opacity: 1;
     }
 }
+/* --- MOBILE RESPONSIVENESS --- */
+@media (max-width: 768px) {
+    .header {
+        padding: 20px 5%;
+    }
+
+    .navbar {
+        /* Optional: Hide long nav for now or make it smaller */
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .navbar a {
+        font-size: 14px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .home {
+        flex-direction: column; /* Stacks text on top of image */
+        justify-content: flex-start;
+        padding-top: 100px; /* Room for header */
+        text-align: center;
+        background-position: center bottom; /* Moves image to bottom */
+        background-size: 50%; /* Makes image smaller to fit */
+    }
+
+    .home-content {
+        max-width: 100%; /* Allows text to use full width */
+    }
+
+    .home-content h1 {
+        font-size: 35px;
+        line-height: 1.2;
+    }
+
+    .home-content p {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .home-content .btn-box {
+        width: 100%;
+        justify-content: center;
+        gap: 15px;
+    }
+
+    .social-network {
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%); /* Centers social icons */
+        width: 150px;
+    }
+}
