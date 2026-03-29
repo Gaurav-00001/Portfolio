@@ -1,6 +1,8 @@
 import React from 'react'
 import './App.css'
 import logo from './assets/CHASMISH CODER.png'
+import nivasImg from './assets/image1.png';
+import ecomImg from './assets/image.png';
  const App = () => {
   return (
     <nav>
@@ -45,14 +47,14 @@ import logo from './assets/CHASMISH CODER.png'
  <div className='Project-Container'>
   <div className='project-card'>
     <h2><a href="https://nivashub-theta.vercel.app/">• NivasHub</a></h2>
-    <img src="/assets/image1.png" alt="PG"  />
+    <img src="nivasImg" alt="PG"  />
     <p>NivasHub | Student Housing Simplified. A streamlined PG discovery platform built with Supabase.</p>
     <a href="https://github.com/Gaurav-00001/PG-FINDER.git">REPO-Link</a>
   </div>
 
   <div className='project-card'>
     <h2><a href="https://gaurav-00001.github.io/e-commerce-website/">• Daily-Essentials</a></h2>
-    <img src="/assets/image.png" alt="E-commerce" />
+    <img src="ecomImg" alt="E-commerce" />
     <p>Daily Essentials Store is a responsive e-commerce storefront with a local storage cart.</p>
     <a href="https://github.com/Gaurav-00001/e-commerce-website.git">REPO-Link</a>
   </div>
