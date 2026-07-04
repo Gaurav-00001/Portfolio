@@ -73,7 +73,7 @@ import Genaiimg from './assets/image2.png';
 </div>
  </div>
   <div className='Social-accounts' id='social'>
-    <a href="https://www.linkedin.com/in/gaurav-s-0a103a33b/" target="_blank" className="circle-link linkedin">
+    <a href="https://www.linkedin.com/in/gaurav-singh-ranswal-0a103a33b/" target="_blank" className="circle-link linkedin">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height={25}/>
   </a>
     <a href="https://github.com/Gaurav-00001" target="_blank" className="circle-link github">
