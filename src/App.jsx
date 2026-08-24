@@ -12,7 +12,7 @@ import Genaiimg from './assets/image2.png';
       <h1> GAURAV'S PORTFOLIO</h1>
      <div className='about-me'> 
     <p>ABOUT ME:-
-     B.Tech student with a technical foundation in Java, C++, and JavaScript. Experienced in developing responsive web applications using React, HTML, and CSS, with a focus on building real-world projects and contributing effectively to team-based software development environments."</p>
+    "B.Tech student specializing in AI Engineering and full-stack integration. Proficient in Python, JavaScript, and React, with hands-on experience integrating LLM APIs, prompt engineering, and building dynamic GenAI applications. Passionate about leveraging artificial intelligence to create intelligent, user-centric software solutions.</p>
   </div>
     <div className='Skills'>
       
@@ -23,6 +23,7 @@ import Genaiimg from './assets/image2.png';
       <li>CSS</li>
       <li>JAVASCRIPT</li>
       <li>React</li>
+     <li>AI Dynamic UI / Chat Interfaces</li>
     </ul>
   </div>
 
@@ -33,6 +34,7 @@ import Genaiimg from './assets/image2.png';
       <li>SQL</li>
       <li>Node.js</li>
       <li>Python</li>
+     <li>Prompt Engineering</li>
     </ul>
   </div>
 
@@ -41,8 +43,8 @@ import Genaiimg from './assets/image2.png';
     <h2 id='Database'>Databases and collaborative-platforms</h2>
     <ul>
       <li>Supabase</li>
-      <li>Vercel</li>
-      <li>Github</li>
+      <li>Vercel (AI Web Deployment)</li>
+      <li>GitHub & Version Control</li>
     </ul>
   </div>
   </div>
