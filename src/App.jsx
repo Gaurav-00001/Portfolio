@@ -21,8 +21,8 @@ import Genaiimg from './assets/image2.png';
     <ul>
       <li>HTML</li>
       <li>CSS</li>
-      <li>JAVASCRIPT</li>
       <li>React</li>
+     <li>JAVASCRIPT</li>
      <li>AI Dynamic UI / Chat Interfaces</li>
     </ul>
   </div>
@@ -43,8 +43,8 @@ import Genaiimg from './assets/image2.png';
     <h2 id='Database'>Databases and collaborative-platforms</h2>
     <ul>
       <li>Supabase</li>
-      <li>Vercel (AI Web Deployment)</li>
       <li>GitHub & Version Control</li>
+     <li>Vercel (AI Web Deployment)</li>
     </ul>
   </div>
   </div>
